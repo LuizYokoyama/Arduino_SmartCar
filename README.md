@@ -4,7 +4,7 @@ Carrinho inteligente que desenvolvi com Arduíno na disciplina Introdução a En
 Este carrinho, além de ser controlado pelo BlueTooth do celular, possui função de auto freio para evitar colisões e de auto estacionar em uma vaga paralela.
 Para isso, ele possui dois Arduínos: um para controlar o carrinho e monitorar quatro sensores ultra sônicos de distância e outro pra monitorar um sensor de rotação na roda.
 
-No Arduino Mega deve ser carregado o arquivo projectCar.ino. No outro Arduino deve ser carregado o arquivo sensorRoda.ino. 
+A partir da IDE do Arduino disponível em https://www.arduino.cc/en/software, no Arduino Mega deve ser carregado o arquivo projectCar.ino. No outro Arduino deve ser carregado o arquivo sensorRoda.ino. 
 
 Imagens do projeto:
 
