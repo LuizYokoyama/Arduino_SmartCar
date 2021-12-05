@@ -1,6 +1,12 @@
 # Arduino SmartCar
 Carrinho inteligente que desenvolvi com Arduíno na disciplina Introdução a Engenharia de Computação, controlado pelo BlueTooth do celular.
 
+Este carrinho, além de ser controlado pelo BlueTooth do celular, possui função de auto freio para evitar colisões e de auto estacionar em uma vaga paralela.
+Para isso, ele possui dois Arduínos: um para controlar o carrinho e monitorar quatro sensores ultra sônicos de distância e outro pra monitorar um sensor de rotação na roda.
+
+No Arduino Mega deve ser carregado o arquivo projectCar.ino. 
+
+Imagens do projeto:
 
 ![image](https://user-images.githubusercontent.com/95327592/144729087-76509392-0ae2-478d-ba04-bf5f4ba397cd.png)
 
